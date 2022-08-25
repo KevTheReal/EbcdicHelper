@@ -1,0 +1,7 @@
+D:\WorkSpace\C#\EbcdicHelper\EbcdicHelper\bin\Debug\EbcdicHelper.exe.config
+D:\WorkSpace\C#\EbcdicHelper\EbcdicHelper\bin\Debug\EbcdicHelper.exe
+D:\WorkSpace\C#\EbcdicHelper\EbcdicHelper\bin\Debug\EbcdicHelper.pdb
+D:\WorkSpace\C#\EbcdicHelper\EbcdicHelper\obj\Debug\EbcdicHelper.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\EbcdicHelper\EbcdicHelper\obj\Debug\EbcdicHelper.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\EbcdicHelper\EbcdicHelper\obj\Debug\EbcdicHelper.exe
+D:\WorkSpace\C#\EbcdicHelper\EbcdicHelper\obj\Debug\EbcdicHelper.pdb
